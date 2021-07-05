@@ -4,8 +4,6 @@ I created a program that is able to generate electrical circuits of different co
 
 Some of the circuits generated are shown below
 
-Source code can be obtained via email: michaelpaulinus@gmail.com
-
 ![schematic23_1_31](https://user-images.githubusercontent.com/56998775/110235051-a352b480-7f36-11eb-8336-4ae3f8591bd6.jpg)
 
 ![schematic64_50](https://user-images.githubusercontent.com/56998775/110235052-a3eb4b00-7f36-11eb-996d-31574671a952.jpg)
